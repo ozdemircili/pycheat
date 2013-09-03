@@ -1,8 +1,7 @@
 
-import netifaces
 import os 
-import commands
-
+import socket
+import netifaces as ni
 
 """
 def get_ip_address(ifname):
@@ -14,17 +13,20 @@ def get_ip_address(ifname):
     )[20:24])
 """
 
-#commands.getoutput("route -n | grep 'UG[ \t]' | awk '{print $2}'")
-#os.system("route -n | grep 'UG[ \t]' | awk '{print $2}'")
-#print(socket.gethostbyname(socket.gethostname()))
-print "Your gateway is: " + str(gateway)
+os.system("route -n | grep 'UG[ \t]' | awk '{print $2}'") 
 
-import netifaces as ni
-#print ni.interfaces()
-#print ni.ifaddresses('eth0')
-#print  ni.ifaddresses.__doc__
-#formatedip= ni.ifaddresses('eth0')[2][0]['addr']
 
+#print "Your gateway is: " str('gateway')
+
+local = (socket.gethostbyname(socket.gethostname()))
+
+print "Wow your local ip interestingly shows:" + str(local)
+
+
+#Let`s get the interfaces and eth ip
+
+int = ni.interfaces()
+print "your interfaces are:" + str(int)
+formatedip= ni.ifaddresses('eth0')[2][0]['addr']
 print "Your ip is: " + str(formatedip)
 
-commands.getoutput()

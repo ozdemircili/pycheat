@@ -24,6 +24,5 @@ print str(filename)
 #DO something as root
 subprocess.call(shlex.split('sudo id -nu'))
 
-
-print "Allright!!"
+print "I can get root!! Allright!!"
 

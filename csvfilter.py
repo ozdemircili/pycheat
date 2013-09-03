@@ -1,4 +1,6 @@
+import sys
 from csvfilter import Processor
+
 
 def contains_cheese(row):
     return 'cheese' in row 

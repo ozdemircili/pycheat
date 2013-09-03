@@ -8,7 +8,7 @@ username = os.system("whoami")
 if username is  "root" :
 	print ("r00tness!")
 else:
-	print("I cannot run as mortal")
+	print("Noo! I be a mortal!")
 
  
 
