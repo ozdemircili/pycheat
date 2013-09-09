@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+Pycheat.egg-info/PKG-INFO
+Pycheat.egg-info/SOURCES.txt
+Pycheat.egg-info/dependency_links.txt
+Pycheat.egg-info/entry_points.txt
+Pycheat.egg-info/not-zip-safe
+Pycheat.egg-info/top_level.txt
+pycheat/__init__.py

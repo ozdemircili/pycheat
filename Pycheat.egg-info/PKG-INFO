@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Pycheat
+Version: 0.3dev
+Summary: Python Cheat Scripts for Systems Administrators and Alike
+Home-page: http://www.codensys.com
+Author: Özgür Özdemircili
+Author-email: ozdemircili@gmail.com
+License: GPL
+Description: Pycheat is a script database for systems administrators or programmers. 
+Keywords: systems administration python script administration.
+Platform: Linux

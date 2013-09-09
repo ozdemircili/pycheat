@@ -1,4 +1,4 @@
-pysample
+Pycheat
 ========
 
 Must have python script examples for system admins and python programmers.
