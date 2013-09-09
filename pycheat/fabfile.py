@@ -62,3 +62,31 @@ def tcp_ports():
       print run("lsof -i tcp")
 
 
+#Running a command and capturing the output:
+
+import functools
+import logging
+import sys
+
+from fabric.api import run, hide
+
+def do_stuff():
+    for cmd in ['ls', 'w', 'who']:
+        run(cmd)
+
+# configure logging
+logger = logging.getLogger("logged")
+logger.setLevel(logging.INFO)
+logger.addHandler(logging.FileHandler('logfile.txt'))
+
+def logged(func):
+    """Logging decorator."""
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        with hide('output'):
+            output = func(*args, **kwargs)
+        logger.info(output)
+        return output
+    return wrapper
+run = logged(run)
+
