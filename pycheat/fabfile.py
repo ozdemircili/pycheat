@@ -61,6 +61,23 @@ def tcp_ports():
       puts('updating server')	 #Add some color!
       print run("lsof -i tcp")
 
+#Color in output!
+
+from fabric.colors import _wrap_with
+
+green_bg = _wrap_with('42')
+red_bg = _wrap_with('41')
+
+def test():
+    with settings(warn_only=True):
+        result = local('ls -la' % env, capture=False)
+    if result.failed:
+        print red_bg("Some tests failed")
+    else:
+        print
+        print green_bg("All tests passed - have a banana!")
+
+#######################################################################
 
 #Running a command and capturing the output:
 
@@ -89,4 +106,6 @@ def logged(func):
         return output
     return wrapper
 run = logged(run)
+
+
 
