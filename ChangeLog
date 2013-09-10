@@ -1,5 +1,119 @@
 2013-09-10  Özgür Özdemircili <ozdemircili@gmail.com>
 
+  * pycheat/lang_russian.py: Added Russian Language Sample
+
+  * README.md: Updated Readme
+
+  * README.md: Updated Readme
+
+  * README.md: Updated Readme
+
+  * README.md: Updated Readme
+
+  * README.md: Updated Readme
+
+  * os.py: Delete os.py
+
+  * csvfilter.py: Delete csvfilter.py
+
+  * csvfilter.pyc: Delete csvfilter.pyc
+
+  * network_server.py: Delete network_server.py
+
+  * openstack.py: Delete openstack.py
+
+  * os_function.py: Delete os_function.py
+
+  * paramiko.py: Delete paramiko.py
+
+  * password_generator.py: Delete password_generator.py
+
+  * platform.py: Delete platform.py
+
+  * process.py: Delete process.py
+
+  * psutil.py: Delete psutil.py
+
+  * randommsgnext.txt: Delete randommsgnext.txt
+
+  * read_hosts.py: Delete read_hosts.py
+
+  * display.py: Delete display.py
+
+  * exec.py: Delete exec.py
+
+  * fabfile.py: Delete fabfile.py
+
+  * findip.py: Delete findip.py
+
+  * ip.sh: Delete ip.sh
+
+  * mycsv_complex.py: Delete mycsv_complex.py
+
+  * mycsvwriter.py: Delete mycsvwriter.py
+
+  * network_connect.py: Delete network_connect.py
+
+  * readfile.py: Delete readfile.py
+
+  * sh.py: Delete sh.py
+
+  * simpleXMLRPC_client.py: Delete simpleXMLRPC_client.py
+
+  * simpleXMLRPC_server.py: Delete simpleXMLRPC_server.py
+
+  * sniffer.py: Delete sniffer.py
+
+  * socket.py: Delete socket.py
+
+  * socket_client.py: Delete socket_client.py
+
+  * tcp_packet.py: Delete tcp_packet.py
+
+  * list.py: Delete list.py
+
+  * gui-sendemail.py: Delete gui-sendemail.py
+
+  * server.py: Delete server.py
+
+  * datetime.pyc: Delete datetime.pyc
+
+  * cuisine.py: Delete cuisine.py
+
+  * datetime.py: Delete datetime.py
+
+  * date_time.py: Delete date_time.py
+
+  * argparse.py: Delete argparse.py
+
+  * mycsv.py: Delete mycsv.py
+
+  * sudo.py: Delete sudo.py
+
+  * sys_argv.py: Delete sys_argv.py
+
+  * sysinfo.py: Delete sysinfo.py
+
+  * telnet_client.py: Delete telnet_client.py
+
+  * timer.py: Delete timer.py
+
+  * tkgui.py: Delete tkgui.py
+
+  * : Delete tmp_socket.py
+
+  * using_name.py: Delete using_name.py
+
+  * split_join.py: Delete split_join.py
+
+  * ssh_paramiko.py: Delete ssh_paramiko.py
+
+  * zip.py: Delete zip.py
+
+  * checkuid.py: Delete checkuid.py
+
+  * ChangeLog: Added Amazon Api Examples
+
   * ChangeLog, pycheat/api_amazon.py, pycheat/argparse.pyc,
   pycheat/fabfile.pyc: Added Amazon Api Cheat
 
