@@ -1,0 +1,36 @@
+2013-09-09  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/api_hackernews.py: Added hackernews api cheat
+
+  * pycheat/fabfile.py: Added color wrap cheat for fabfile.py
+
+  * pycheat/fabfile.py: Added fabric output capture cheat
+
+  * LICENSE, Pycheat.egg-info/PKG-INFO, Pycheat.egg-info/SOURCES.txt,
+  Pycheat.egg-info/dependency_links.txt, Pycheat.egg-info/entry_points.txt,
+  Pycheat.egg-info/not-zip-safe, Pycheat.egg-info/top_level.txt, README.md,
+  pycheat/__init__.py, pycheat/argparse.py, pycheat/checkuid.py,
+  pycheat/csvfilter.py, pycheat/cuisine.py, pycheat/date_time.py,
+  pycheat/datetime.py, pycheat/display.py, pycheat/exec.py, pycheat/fabfile.py,
+  pycheat/findip.py, pycheat/gui-sendemail.py, pycheat/list.py,
+  pycheat/mycsv.py, pycheat/mycsv_complex.py, pycheat/mycsvwriter.py,
+  pycheat/network_connect.py, pycheat/network_server.py, pycheat/openstack.py,
+  pycheat/os.py, pycheat/os_function.py, pycheat/paramiko.py,
+  pycheat/password_generator.py, pycheat/platform.py, pycheat/process.py,
+  pycheat/psutil.py, pycheat/read_hosts.py, pycheat/readfile.py,
+  pycheat/server.py, pycheat/sh.py, pycheat/simpleXMLRPC_client.py,
+  pycheat/simpleXMLRPC_server.py, pycheat/sniffer.py, pycheat/socket.py,
+  pycheat/socket_client.py, pycheat/split_join.py, pycheat/ssh_paramiko.py,
+  pycheat/sudo.py, pycheat/sys_argv.py, pycheat/sysinfo.py,
+  pycheat/tcp_packet.py, pycheat/telnet_client.py, pycheat/timer.py,
+  pycheat/tkgui.py, pycheat/using_name.py, pycheat/zip.py, setup.cfg, setup.py:
+  Added setup script and License
+
+2013-09-06  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * tcp_packet.py: Added tcp_check.py sample
+
+2013-09-03  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * argparse.py, checkuid.py, csvfilter.py, csvfilter.pyc, datetime.py,
+  datetime.pyc, exec.py, fabfile.py, findip.py, process.py: Trivial changes
