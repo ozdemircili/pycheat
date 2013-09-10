@@ -1,3 +1,8 @@
+2013-09-10  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * ChangeLog, pycheat/api_amazon.py, pycheat/argparse.pyc,
+  pycheat/fabfile.pyc: Added Amazon Api Cheat
+
 2013-09-09  Özgür Özdemircili <ozdemircili@gmail.com>
 
   * pycheat/api_hackernews.py: Added hackernews api cheat
