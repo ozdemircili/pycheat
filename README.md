@@ -1,4 +1,4 @@
-Pycheat  - Python examples for all
+Pycheat  - Python Sample Database For All
 ========
 ![alt tag](http://2.bp.blogspot.com/-L1orsP_3V4Q/TgifH-1fZqI/AAAAAAAAAsM/y4E0cvSPfIA/s1600/sudojoke.jpg)
 
