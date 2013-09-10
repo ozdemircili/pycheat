@@ -1,6 +1,12 @@
 2013-09-10  Özgür Özdemircili <ozdemircili@gmail.com>
 
-  * pycheat/lang_russian.py: Added Russian Language Sample
+  * pycheat/api_bing.py, pycheat/api_bitly.py: Added Bing and Bitly api samples
+
+  * : Delete logfile.txt
+
+  * ChangeLog, pycheat/lang_russian.py: Added Russian Language Sample
+
+  * README.md: Updated Readme.md
 
   * README.md: Updated Readme
 
