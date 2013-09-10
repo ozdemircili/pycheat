@@ -1,4 +1,5 @@
-Pycheat - Python example database for all
+	Pycheat  
+Python example database for all
 ========
 ![alt tag](http://2.bp.blogspot.com/-L1orsP_3V4Q/TgifH-1fZqI/AAAAAAAAAsM/y4E0cvSPfIA/s1600/sudojoke.jpg)
 
