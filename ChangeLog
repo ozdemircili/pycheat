@@ -1,4 +1,10 @@
+2013-09-12  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/clint.py: Added clint Sample
+
 2013-09-10  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * ChangeLog, pycheat/argparse.pyc, pycheat/fabfile.pyc: mend
 
   * pycheat/api_bing.py, pycheat/api_bitly.py: Added Bing and Bitly api samples
 
