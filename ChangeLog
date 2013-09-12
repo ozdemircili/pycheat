@@ -1,5 +1,9 @@
 2013-09-12  Özgür Özdemircili <ozdemircili@gmail.com>
 
+  * pycheat/mail_mbox.py: Added mail_mbox Sample
+
+  * ChangeLog, pych.py, pycheat/clint.py: Added clint Sample
+
   * pycheat/clint.py: Added clint Sample
 
 2013-09-10  Özgür Özdemircili <ozdemircili@gmail.com>
