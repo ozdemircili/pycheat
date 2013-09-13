@@ -1,4 +1,13 @@
+2013-09-13  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/api_dropbox.py: Added api_dropbox - Dropbox Api
+
 2013-09-12  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/util_configparser.py: Added os_configparser - ConfigParser Sample
+
+  * ChangeLog, pycheat/mail_mailbox.py, pycheat/os_filecomp.py: Added
+  os_filecomp.py - File Comparison Sample and mail_mailbox Mailbox Sample
 
   * pycheat/mail_mbox.py: Added mail_mbox Sample
 
