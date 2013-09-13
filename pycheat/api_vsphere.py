@@ -8,7 +8,7 @@ Created on Fri Sep 13 12:37:40 2013
 
 Install:
 
-pip install pyspehre
+pip install pysphere
 
 """
 

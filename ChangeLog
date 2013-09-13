@@ -1,5 +1,8 @@
 2013-09-13  Özgür Özdemircili <ozdemircili@gmail.com>
 
+  * ChangeLog, pycheat/api_vsphere.py: Added api_vsphere.py - Vmware Vsphere
+  API
+
   * pycheat/api_nmap.py: Added api_nmap.py - Nmap Api
 
   * ChangeLog, pycheat/__init__.pyc, pycheat/api_twitter.py: Added api_twitter
