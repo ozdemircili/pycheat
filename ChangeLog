@@ -1,5 +1,12 @@
 2013-09-13  Özgür Özdemircili <ozdemircili@gmail.com>
 
+  * pycheat/api_nmap.py: Added api_nmap.py - Nmap Api
+
+  * ChangeLog, pycheat/__init__.pyc, pycheat/api_twitter.py: Added api_twitter
+  - Twitter Api
+
+  * pycheat/api_wikipedia.py: Added api_wikipedia - Wikipedia Api
+
   * pycheat/api_dropbox.py: Added api_dropbox - Dropbox Api
 
 2013-09-12  Özgür Özdemircili <ozdemircili@gmail.com>
