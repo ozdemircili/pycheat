@@ -1,4 +1,15 @@
+2013-10-01  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/build/pip-delete-this-directory.txt, pycheat/psutil.pyc,
+  pycheat/requests.py: Added requests cheat
+
 2013-09-13  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/funny_this.py, pycheat/progessbar.py, pycheat/slowtext.py: Added
+  progressbar, slowtext and funny_this - Text tricks, progress bar and a bonus
+  Python easter egg
+
+  * ChangeLog, pycheat/api_vsphere.py: Updated api_vmware.py
 
   * ChangeLog, pycheat/api_vsphere.py: Added api_vsphere.py - Vmware Vsphere
   API
