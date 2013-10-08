@@ -1,4 +1,20 @@
+2013-10-08  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/xml_elememtree.py: Added xml_elementree Cheat
+
+2013-10-04  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/text_textblob.py: Added Text Cheat - Textblob
+
+2013-10-03  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * pycheat/while.py: Added while cheat
+
+  * pycheat/sendmail.py: Added Sendmail Cheat
+
 2013-10-01  Özgür Özdemircili <ozdemircili@gmail.com>
+
+  * ChangeLog, pycheat/api_linkedin.py: Added Linkedin API
 
   * pycheat/build/pip-delete-this-directory.txt, pycheat/psutil.pyc,
   pycheat/requests.py: Added requests cheat
